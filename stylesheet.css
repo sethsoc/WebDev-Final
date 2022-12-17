@@ -1,0 +1,42 @@
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(20, 131, 168);
+}
+li{
+    height: 50px;
+    width: 400px;
+    font-weight: bold;
+}
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(20, 131, 168);
+}
+h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(20, 131, 168);
+}
+h3{border-style: solid;}
+
+div{
+    margin-top: 40px;
+}
+
+div.header{
+    text-align: bottom;
+    align-content: flex-start;
+}
+
+div.arcitecture{
+    position: relative;
+}
+
+div.People{
+    position:relative;
+}
+div.Weather{
+    position: relative;
+}
+
+
+
+
